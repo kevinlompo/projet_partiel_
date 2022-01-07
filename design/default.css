@@ -1,0 +1,372 @@
+.popup_content {
+    margin: 10px;
+    padding: 0 10px;
+    max-width: 60%;
+    border: 2px solid #99d8e4;
+    background: white;
+}
+
+.docteur{
+    margin-left: 400px;
+}
+.patient{
+    margin-left: -70px;
+}
+
+.popup1_open {
+    text-decoration: none;
+
+}  
+.popup2_open{
+    padding: 15px 3rem;
+    border-radius: 5px;
+    border:none;
+    font-size: 15px;
+    margin :5% 0;
+    color: #fff;
+    background-color: #67c5e2;
+    outline:none;
+    cursor:pointer;
+}
+
+.popup2_open:hover {
+    color: #99d8e4;
+    background-color: #637580;
+}
+
+.popup1_open:hover {
+    color: #99d8e4;
+    background-color: #637580;
+}
+
+body{
+    padding: 0;
+	margin: auto;
+}
+
+table{
+    border-collapse: collapse;
+    color: #637580;
+    
+}
+  
+td{
+    /* border: 1px solid black; */
+    padding: 10px;
+    width: 350px;
+    border: 2px solid gray;
+    text-align: center;
+    
+}
+
+/* a #supprimer .popup1_open{
+    margin-bottom: 10px;
+} */
+#popup1{
+    color: #637580;
+    
+}
+
+img#main-image{
+    float: left;
+    margin-top: 200px;
+    margin-left: -170px;
+}
+/* .main-image{
+    background-image: url(image/adn2.jpg);
+} */
+
+div.cover {
+    background: url(logo_1.png) no-repeat center/cover;
+    height: 360px;
+}
+
+.cnx {
+    color: #637580;
+    font-weight: bold;
+}
+
+.choixUser p:hover{
+    color: #637580;
+    background-color: #99d8e4;
+}
+
+.button1{
+    text-decoration: none;
+    color: #637580;
+    
+}
+
+
+.button1:hover{
+    color: #637580;
+    background-color: #99d8e4;
+}
+.button2:hover{
+    color: #8cbce0;
+    background-color: red;
+}
+
+#bodyOrdoMedecin{
+    max-width: 1300px;
+    min-width: 100px;
+    background-color: white;
+    border: 3px solid gray;
+	color: white;
+	border-radius: 5px;
+	margin-top: 200px;
+    min-height: 800px;
+    /* display: inline-block; */
+    margin-left: 320px;
+    
+}
+
+.infosPatient{
+    margin-top: 30px;
+    float: left;
+}
+
+.prescription {
+    float: right;
+    margin-right: 380px;
+    margin-top: 30px;
+}
+
+#login-body2{
+    max-width: 800px;
+    background-color: white;
+    border: 3px solid gray;
+	color: white;
+	border-radius: 5px;
+	margin-top: 50px;
+    min-height: 500px;
+    margin-left: 30%;
+    margin-top: 200px;
+}
+
+#login-body1{
+    max-width: 800px;
+    background-color: white;
+    border: 3px solid gray;
+	color: white;
+	border-radius: 5px;
+	margin-top: 200px;
+    min-height: 500px;
+    display: inline-block;
+    margin-left: 550px;
+}
+
+#login-body {
+    max-width: 800px;
+    background-color: white;
+    border: 3px solid gray;
+    float: right;
+	color: white;
+	border-radius: 5px;
+	margin-top: 200px;
+    min-height: 500px;
+    /* display: inline-block; */
+    margin-right: 115px;
+}
+h2{
+    text-align: center;
+}
+
+
+/* #main-image{
+    background: url(image/adn2.jpg);
+} */
+
+.envoyerpop{
+    display: inline-block;
+    margin-left: 170px;
+    margin-bottom: 15px;
+}
+
+.popup1_open:hover{
+    color: #8cbce0;
+    background-color: red;
+}
+.popup1_open{
+    padding: 15px 3rem;
+    border-radius: 5px;
+    border:none;
+    font-size: 15px;
+    margin :5% 0;
+    color: #fff;
+    background-color: #67c5e2;
+    outline:none;
+    cursor:pointer;
+    margin-bottom: 20px;
+}
+
+form input[type='email'], input[type='password'], input[type='text']{
+    padding: 15px;
+    border:none;
+    border-radius: 5px;
+    background-color:#f2f2f2;
+    outline:none;
+    margin-bottom: 15px;
+    min-width: 350px;
+  }
+
+form table tr{
+    margin-top: 100px;
+    display: inline-block;
+    margin-right: 100px;
+    text-transform: uppercase;
+    color: #637580;
+    left: 50%;
+    margin-left: 300px;
+    padding-right: 30px;
+    height: 150px;
+}
+
+table.info {
+    display: inline;
+    height: 100px;
+    padding-right: 80px;
+    width: 100%;
+}
+
+table.info tr {
+    width: 100%;
+}
+
+
+
+img.add {
+    min-width: 100%;
+}
+
+form input[type='email'], input[type='password'], input[type='text']{
+    padding: 15px;
+    border:none;
+    border-radius: 5px;
+    background-color:#f2f2f2;
+    outline:none;
+    margin-bottom: 15px;
+    min-width: 350px;
+  }
+
+div.colonne {
+    width: 49%;
+    border-bottom: 3px solid gray;
+}
+
+div.colonne1 {
+    display: inline-block;
+    margin-right: 0;
+    text-align: center;
+    border-right: 3px solid gray;
+
+}
+
+div.colonne2 {
+    float: right;
+    text-align: center;  
+}
+
+div.form {
+    align-items: center;
+    margin-top: 20px;
+    position: absolute;
+    float: left;
+    
+}
+
+
+
+input[type="submit"]{
+    padding: 15px 3rem;
+    border-radius: 5px;
+    border:none;
+    font-size: 15px;
+    margin :5% 0;
+    color: #fff;
+    background-color: #67c5e2;
+    outline:none;
+    cursor:pointer;
+  }
+
+div.centre {
+    text-align: center;
+    width: 100%;
+}
+
+img.info {
+ max-height: 400px;
+ min-height: 200px;
+ max-width: 500px;
+ display: block;
+ background-color: lightgray;
+ margin-left: 40%;
+}
+
+#modifier {
+    margin-left: 580px;
+    margin-top: 300px;
+}
+
+img.logoInscription{
+    max-height: 100px;
+    min-height: 100px;
+    max-width: 90px;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 350px;
+}
+
+div.choixUser {
+    color: #6fa5e7;
+    font-size: large;
+}
+
+#trait1{
+    border-top: 2px solid #637580;
+    width :50%;
+    margin: 5rem;
+    display: inline-block;
+    left: 50%;
+    margin-left: -50px;
+}
+
+form h2{
+    color: #637580;
+}
+
+div.param {
+    border-bottom: 3px solid gray; 
+    color: #6fa5e7;
+    display: flex;
+}
+
+div.carre {
+    width: 20px;
+    height: 20px;
+    background-color: #6fa5e7;;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+form h3 {
+    color: #637580;
+    font-size: 20px;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 18px;
+} 
+
+
+
+/* div.patien {
+    display: inline;
+}
+
+div.medecin {
+    display: inline;
+}
+
+div.pharma {
+    display: inline;
+} */
